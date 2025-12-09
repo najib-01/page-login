@@ -16,7 +16,7 @@ export default function Forgot_password_page() {
             animate={{opacity:1}}
             transition={{duration:1.5, delay:0.2}}
                 >
-                    <img className="img" src="/public/download.png" alt="logo" />
+                    <img className="img" src="/download.png" alt="logo" />
                 </motion.div>
                <motion.div
                initial={{opacity:0}}
